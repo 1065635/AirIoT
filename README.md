@@ -1,2 +1,0 @@
-# AirIoT
-Tibame_project
