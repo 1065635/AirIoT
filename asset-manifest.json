@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Air_IoT/static/css/main.1796d783.css",
+    "main.js": "/Air_IoT/static/js/main.b0a728b6.js",
+    "index.html": "/Air_IoT/index.html",
+    "main.1796d783.css.map": "/Air_IoT/static/css/main.1796d783.css.map",
+    "main.b0a728b6.js.map": "/Air_IoT/static/js/main.b0a728b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1796d783.css",
+    "static/js/main.b0a728b6.js"
+  ]
+}
